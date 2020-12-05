@@ -1,2 +1,8 @@
 # Momentum_Project
-지역별 날씨 정보 제공하고 사용자의 하루 일정을 관리하는 탭
+#### 사용자의 하루 일정을 관리하는 웹사이트
+
+개발자 : 최다연 <br/>
+개발 기간 : 2019.05 <br/>
+개발 언어 : Html, JavaScript, Css <br/>
+개발 환경 : Visual Studio Code <br/>
+사용한 API : OpenWeather
