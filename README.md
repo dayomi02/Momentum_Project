@@ -5,4 +5,4 @@
 개발 기간 : 2019.05 <br/>
 개발 언어 : Html, JavaScript, Css <br/>
 개발 환경 : Visual Studio Code <br/>
-사용한 API : OpenWeather
+사용 API : OpenWeather
